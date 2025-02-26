@@ -2,7 +2,7 @@
 
 Este é um site simples hospedado no **GitHub Pages**.  
 
-🔗 **Acesse aqui**: [meusite.github.io](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)  
+🔗 **Acesse aqui**: [meusite.github.io]([https://raw.githubusercontent.com/Sigmadabahia2/teste/refs/heads/main/%C3%ADndex.html) 
 
 ---
 ## 🚀 Como Rodar Localmente  
